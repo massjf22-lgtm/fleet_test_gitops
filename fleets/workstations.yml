@@ -74,6 +74,14 @@ controls:
       - paths: ../platforms/windows/configuration-profiles/*.xml
 
   ###########################################################
+labels:
+- name: C-Suite
+description: Hosts belonging to the C-Suite
+label_membership_type: manual
+hosts:
+
+###############################################################
+  
   # Managed disk encryption
   #
   # To enable and enforce disk encryption with key escrow on
