@@ -167,7 +167,7 @@ policies:
   - paths: ../platforms/macos/policies/*.yml
   - paths: ../platforms/windows/policies/*.yml
   - paths: ../platforms/linux/policies/*.yml
-
+  - paths: ../platforms/macos/policies/dns-resolvers.policies.yml
 ###########################################################
 # Software available for install
 #
